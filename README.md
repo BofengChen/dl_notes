@@ -10,7 +10,7 @@
 
 里面的代码主要来自：
 
-* [《deep learning中文版》](https://exacity.github.io/deeplearningbook-chinese/)
+* [《deep learning》](https://exacity.github.io/deeplearningbook-chinese/)
 
 
 默认使用 `python-2.7`，以及一些常用的安装包： `ipython， numpy， scipy，pandas...`
@@ -27,3 +27,4 @@
 ## 目录
 * [CH00_深度学习理论基础.ipynb](https://github.com/BofengChen/dl_notes/blob/master/CH00_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.ipynb)
 * [CH01_深度前馈神经网络.ipynb](https://github.com/BofengChen/dl_notes/blob/master/CH01_%E6%B7%B1%E5%BA%A6%E5%89%8D%E9%A6%88%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
+* [CH02_深度学习中的正则化.ipynb](https://github.com/BofengChen/dl_notes/blob/master/CH02_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%AD%A3%E5%88%99%E5%8C%96.ipynb)
